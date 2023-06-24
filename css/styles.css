@@ -27,3 +27,7 @@
     text-align: center;
   }
 }
+/* Modal */
+.modal-dialog {
+  max-width: 1040px;
+}
