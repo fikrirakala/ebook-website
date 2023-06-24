@@ -2,3 +2,9 @@
 .navbar .btn-outline-light:hover {
   color: var(--bs-dark);
 }
+
+/* Header */
+.header {
+  background-image: url(../images/header-background.jpg);
+  background-size: cover;
+}
